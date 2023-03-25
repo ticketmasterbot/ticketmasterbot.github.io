@@ -145,3 +145,19 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
+button {
+  background-color: #7289da;
+  border: none;
+  border-radius: 25px;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #677bc4;
+  cursor: pointer;
+}
